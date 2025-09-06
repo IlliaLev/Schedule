@@ -1,0 +1,38 @@
+
+.schedule {
+    max-width: fit-content;
+    padding: 10px;
+    background-color: cornflowerblue;
+    margin: 20px auto 0 auto;
+    border-radius: 10px;
+}
+
+.schedule h1 {
+    text-align: center;
+    padding-top: 10px;
+}
+
+.vertical-divider {
+    display: inline;
+    border-left: 3px solid #ccc;
+    height: 20px;
+    margin: 5px 25px;
+}
+
+.inline-div {
+    display: inline;
+}
+
+.ind-l {
+    text-align: left;
+}
+
+.ind-r {
+    text-align: right;
+}
+
+th, td {
+    text-align: center;
+    border: 2px solid black;
+    padding: 8px;
+}
