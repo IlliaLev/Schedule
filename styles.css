@@ -1,9 +1,12 @@
+body {
+    background-color: #635255;
+    margin: auto 10px;
+}
 
 .schedule {
-    max-width: fit-content;
     padding: 10px;
-    background-color: cornflowerblue;
-    margin: 20px auto 0 auto;
+    background-color: #43383A;
+    margin: 20px auto 20px auto;
     border-radius: 10px;
 }
 
@@ -14,9 +17,15 @@
 
 .vertical-divider {
     display: inline;
-    border-left: 3px solid #ccc;
+    border-left: 1px solid #000;
     height: 20px;
     margin: 5px 25px;
+}
+
+hr {
+    height: 1px;
+    border: 0;
+    background-color: black;
 }
 
 .inline-div {
@@ -35,4 +44,8 @@ th, td {
     text-align: center;
     border: 2px solid black;
     padding: 8px;
+}
+
+table {
+    margin: 10px auto;
 }
