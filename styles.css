@@ -4,7 +4,7 @@ body {
 }
 
 .schedule {
-    width: fit-content;
+    width: 1200px;
     padding: 10px;
     background-color: #43383A;
     margin: 20px auto 20px auto;
@@ -48,5 +48,6 @@ th, td {
 }
 
 table {
-    margin: 10px auto;
+    /*margin: 10px auto;*/
+    align-self: center;
 }
