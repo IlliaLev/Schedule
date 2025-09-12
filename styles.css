@@ -60,6 +60,11 @@ table {
         overflow-x: auto;
     }
 
+    .vertical-divider {
+        margin: 5px 0;
+        margin-right: 3px;
+    }
+
     th, td {
         padding: 4px;
         font-size: 12px;
