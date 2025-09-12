@@ -9,6 +9,7 @@ body {
     background-color: #43383A;
     margin: 20px auto 20px auto;
     border-radius: 10px;
+    overflow-x: auto;
 }
 
 .schedule h1 {
