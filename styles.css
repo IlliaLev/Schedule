@@ -4,6 +4,7 @@ body {
 }
 
 .schedule {
+    width: fit-content;
     padding: 10px;
     background-color: #43383A;
     margin: 20px auto 20px auto;
